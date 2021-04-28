@@ -15,6 +15,6 @@ Módulo de reconocimiento facial de los contactos del paciente. Intervienen 3 di
 
 ## Para más información
 
-[https://drive.google.com/file/d/18hRBVbYE6pV3AY4-ssnSpT_trIEqKTJX/view?usp=sharing](https://drive.google.com/file/d/18hRBVbYE6pV3AY4-ssnSpT_trIEqKTJX/view?usp=sharing)
+[https://drive.google.com/file/d/11WPhMi8M4eRxK9Bfk_UVUMYKVP8CDr7u/view?usp=sharing](https://drive.google.com/file/d/11WPhMi8M4eRxK9Bfk_UVUMYKVP8CDr7u/view?usp=sharing)
 
 
